@@ -1,7 +1,6 @@
 # w1-d4-exercise-js-switch-hello
 
-Let’s write an improved version of the ‘Hello, world!’ program. Let’s ask the user in which language they want to see the message. You must have, at least, three different languages.
+This time you will work on even more custom Hello, world!
 
-1. If the user wants the message in Spanish, you have to log in to the console “Hola, mundo!”.
-2. If the user wants the message in French, you have to log in to the console “Bonjour tout le monde”.
-3. Finally, if we don’t have the indicated language, we will show “Hello, world!”.
+1. Improve your custom hello, world! exercise by using a switch statement instead of if..else.
+2. Now it’s more practical to have more than three languages. Add a few more languages to your program.
