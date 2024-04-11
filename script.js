@@ -16,3 +16,17 @@ console.log("Ready to go! 🚀");
 // } else {
 //   console.log("Hello, world!");
 // }
+
+switch (language) {
+  case 'Spanish':
+    console.log('Hola, mundo!');
+    break;
+  case 'French':
+    console.log('Bonjour, le monde!');
+    break;
+  case 'Italian':
+    console.log('Ciao, mondo!');
+    break;
+  default:
+    console.log('Hello, world!');
+}
